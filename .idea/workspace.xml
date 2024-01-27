@@ -7,7 +7,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95a600cf-338e-4de1-9f0f-d35cc7c98090" name="Changes" comment="feat(param): Add Remaining Mixins" />
+    <list default="true" id="95a600cf-338e-4de1-9f0f-d35cc7c98090" name="Changes" comment="feat(param): Add Remaining Mixins">
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/lexer/ParamLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/parser/ParamParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGArrayLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGClassStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGDeleteStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGEnumDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGEnumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGExternalClassStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGIdentifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGNumericLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGParameterStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGStringLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamGVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/ParamTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGArrayElementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGArrayLiteralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGClassStatementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGDeleteStatementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGEnumDeclarationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGEnumValueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGExternalClassStatementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGIdentifierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGLiteralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGNumericLiteralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGParameterStatementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGStatementImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lang/param/src/main/gen/com/flipperplz/enfusionWorkbench/languages/param/psi/impl/ParamGStringLiteralImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +244,7 @@
       <recent name="com.flipperplz.bisutils.languages.param.psi.enumerations" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Run Plugin">
+  <component name="RunManager" selected="Gradle.Enfusion-Workbench [build]">
     <configuration name="Enfusion-Workbench [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -392,7 +425,7 @@
       <workItem from="1706328478730" duration="385000" />
       <workItem from="1706328873172" duration="990000" />
       <workItem from="1706329895910" duration="113000" />
-      <workItem from="1706330057126" duration="191000" />
+      <workItem from="1706330057126" duration="563000" />
     </task>
     <task id="LOCAL-00009" summary="fix(pbo): Rename Method getMetadataLength to retrieveMetadataLength">
       <created>1681854066751</created>
